@@ -73,3 +73,11 @@ To run the live Jupyter Notebook demo on real-time camera input, follow these st
 Cao, Zhe, et al. "Realtime multi-person 2d pose estimation using part affinity fields." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017.
 
 Xiao, Bin, Haiping Wu, and Yichen Wei. "Simple baselines for human pose estimation and tracking." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
+
+## To Do (@victorhamc):
+
+1. Test upload routine
+1.2 Handle file delete after upload
+2. Add button to shutdown the jetbot
+3. Add LED to tell if the script is running
+
