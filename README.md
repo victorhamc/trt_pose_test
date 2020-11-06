@@ -76,9 +76,9 @@ Xiao, Bin, Haiping Wu, and Yichen Wei. "Simple baselines for human pose estimati
 
 ## To Do (@victorhamc):
 
-1. Test upload routine
-2. Handle file delete after upload
+1. ~~Test upload routine~~ Completed on Nov 6, 2020
+2. ~~Handle file delete after upload~~ Completed on Nov 6, 2020
 3. Add button to shutdown the jetbot
 4. Add LED to tell if the script is running
-5. Add fan handling depending on the temperature of the CPU/GPU
+5. ~~Add fan handling depending on the temperature of the CPU/GPU~~ Completed on Nov 6, 2020
 
